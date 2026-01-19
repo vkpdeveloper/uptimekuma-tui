@@ -1,4 +1,6 @@
+/target
+/.env
+/socketio_events.log
+.DS_Store
+**/*.rs.bk
 node_modules
-build
-dist
-.env
